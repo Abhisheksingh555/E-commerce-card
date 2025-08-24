@@ -13,12 +13,11 @@ Perfect for practicing e-commerce UI design and responsive layouts.
 
 ## 📸 Preview  
 
-<p align="center">
-  <img src="https://github.com/Abhisheksingh555/E-commerce-card/blob/main/assets/preview-1.png" alt="E-commerce Card Preview 1" width="45%" />
-  <img src="https://github.com/Abhisheksingh555/E-commerce-card/blob/main/assets/preview-2.png" alt="E-commerce Card Preview 2" width="45%" />
-</p>  
+  <img src="https://github.com/Abhisheksingh555/E-commerce-card/blob/main/assets/preview-1.png" alt="E-commerce Card Preview 1" width="100%" />
+  
+---
+<img src="https://github.com/Abhisheksingh555/E-commerce-card/blob/main/assets/preview-2.png" alt="E-commerce Card Preview 2" width="25%" />
 
-*(Make sure you add `preview1.png` and `preview2.png` inside your repo root folder)*  
  
 
 ---
